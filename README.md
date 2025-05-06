@@ -157,7 +157,7 @@
     </div>
     <div class="container">
       <div class="left-column">
-        <h3>Left Column - Description</h3>
+        <h3>History</h3>
         <p>
           The original lock and Dam #4 on the Kentucky River was built between the years 1836 to 1842 and was then rebult in 1882 by the Corp of Engineers. The Lock & Dam have since been repaired several time and are still currently operational to leasure boat traffic, though the locks were used until 2002 as a form of transportation of goods by barge.
         </p>
@@ -174,6 +174,12 @@
           Page and visualizations created by NHockensmith for GEO 409, Department of
           Geography, University of Kentucky. Spring 2025.
         </p>
+        <h3>Signage Near Lock #4 </h3>
+        <img src="LocSign.jpg" alt="Something about this map" width="100%" />
+        <p class="caption">Picture of sign near Kentucky River Lock & Dam #4 by Nick Hockensmith.
+        <h3>North West Facing Picture </h3>
+        <img src="Lock4.2.jpg" alt="Something about this map" width="100%" />
+        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the east side of the dam facing north west by Nick Hockensmith.
       </div>
       <div class="right-column">
         <h3>Shaded Relief </h3>
@@ -182,6 +188,12 @@
         <h3>Point Cloud from Lidar </h3>
       <img src="KyRivLoc4_Map.jpg" alt="Something about this map" width="100%" />
         <p class="caption">This map the size of the lock determined from lidar data being displayed as a colorized point cloud. <a href="KyRivLoc4_Map.pdf">(High-Resolution Version)</a></p>
+        <h3>North East Facing Picture </h3>
+        <img src="Lock4.3.jpg" alt="Something about this map" width="100%" />
+        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing north east by Nick Hockensmith, 
+        <h3>South East Facing Picture </h3>
+        <img src="Lock4.1.jpg" alt="Something about this map" width="100%" />
+        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing south east by Nick Hockensmith.
       </div>
     </div>
   </section>
