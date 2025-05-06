@@ -107,6 +107,7 @@
     /* Define styles for the left column */
     .left-column {
       flex-basis: 40%;
+      background-color: rgba(255, 255, 255, 0.35);
       padding: 20px;
       margin-bottom: 20px;
     }
@@ -195,6 +196,5 @@
           Geography, University of Kentucky. Spring 2025.
         </p>
     </div>
-
   </footer>
 </body>
