@@ -174,17 +174,21 @@
         </p>
       </div>
       <div class="right-column">
-        <h3>Right Column - Vizualizations </h3>
+        <h3>Shaded Relief </h3>
         <img src="KyRivShadeRelief.jpg" alt="Something about this map" width="100%" />
         <p class="caption">This map displays a shaded releif of the area around Lock #4 <a href="KyRivShadeRelief.pdf">(High-Resolution Version)</a></p>
+        <h3>Point Cloud from Lidar </h3>
       <img src="KyRivLoc4_Map.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">This map shows the sizr of the lock determined from lidar data. <a href="KyRivLoc4_Map.pdf">(High-Resolution Version)</a></p>
+        <p class="caption">This map the size of the lock determined from lidar data being displayed as a colorized point cloud. <a href="KyRivLoc4_Map.pdf">(High-Resolution Version)</a></p>
       </div>
     </div>
   </section>
   <footer>
     <hr />
-    <img src="logo-color-400px.png" alt="UKy Arts and Sciences  " width="300px">
-
+    <img src="logo-color-400px.png" alt="UKy Arts and Sciences  " width="300px"><p>
+          Page and visualizations created by NHockensmith for GEO 409, Department of
+          Geography, University of Kentucky. Spring 2025.
+        </p>
   </footer>
 </body>
+
