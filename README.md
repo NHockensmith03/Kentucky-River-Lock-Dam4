@@ -176,10 +176,9 @@
       <div class="right-column">
         <h3>Right Column - Vizualizations </h3>
         <img src="KyRivShadeRelief.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">This map displays a shaded releif of the area around Lock #4 <a href="KyRivShadeRelief.pdf">High-Resolution Version</a></p>
-    
-        <img src="map2.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Caption for map2</p>
+        <p class="caption">This map displays a shaded releif of the area around Lock #4 <a href="KyRivShadeRelief.pdf">(High-Resolution Version)</a></p>
+      <img src="KyRivLoc4_Map.jpg" alt="Something about this map" width="100%" />
+        <p class="caption">This map shows the sizr of the lock determined from lidar data. <a href="KyRivLoc4_Map.pdf">(High-Resolution Version)</a></p>
       </div>
     </div>
   </section>
