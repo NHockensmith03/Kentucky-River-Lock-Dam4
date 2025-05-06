@@ -19,7 +19,7 @@
       font-family: "Open Sans", sans-serif;
       font-weight: 400;
       color: rgb(32, 32, 32);
-      background-color: rgb(249, 211, 129);
+      background-color: rgba(35, 70, 34, 0.55);
     }
     /* Define styles for the headings */
     h1 {
