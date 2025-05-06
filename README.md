@@ -160,27 +160,24 @@
           The original lock and Dam #4 on the Kentucky River was built between the years 1836 to 1842 and was then rebult in 1882 by the Corp of Engineers. The Lock & Dam have since been repaired several time and are still currently operational to leasure boat traffic, though the locks were used until 2002 as a form of transportation of goods by barge.
         </p>
         <p>
-          The goal of this project is to take a look at a piece of infustructure that played a role in the growth of kentucky. The lock system throughout the kentucky river played a viable role in transportation of goods through and out of the state for over 150 years. 
+          The goal of this project is to take a look at a piece of infustructure that played a role in the growth of kentucky. The lock system throughout the kentucky river played a viable role in transportation of good in and out of the state. 
         </p>
-
         <p>
           Visualizations created from lidar data provided by
-          <a href="https://kyfromabove.ky.gov/">KyFromAbove</a> in ArcGIS Pro and
-          Blender. Additional sources of information from
-          <a href="https://...">name of source</a>, April, 2023.
+          <a href="https://kyfromabove.ky.gov/">KyFromAbove</a> in ArcGIS Pro, Blender, and Cesium Ion. Additional sources of information from
+          <a href="https://finance.ky.gov/kentucky-river-authority/Documents/2_Intro_Ky_River_Trans_Route.pdf">Kentucky.gov</a>, and
+          <a href="https://finance.ky.gov/kentucky-river-authority/Pages/lock-and-dam-4.aspx#:~:text=Lock%20and%20Dam%204%20were,original%20lock%20was%20stone%20masonry.">Kentucky River Authority</a>, April, 2025.
         </p>
-
         <p>
-          Page and visualizations created by B for GEO 409, Department of
-          Geography, University of Kentucky. Spring 2024.
+          Page and visualizations created by NHockensmith for GEO 409, Department of
+          Geography, University of Kentucky. Spring 2025.
         </p>
-
-
       </div>
       <div class="right-column">
         <h3>Right Column - Vizualizations </h3>
-        <img src="map1.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Caption for map1</p>
+        <img src="KyRivShadeRelief.jpg" alt="Something about this map" width="100%" />
+        <p class="caption">This map displays a shaded releif of the area around Lock #4 <a href="KyRivShadeRelief.pdf">High-Resolution Version</a></p>
+    
         <img src="map2.jpg" alt="Something about this map" width="100%" />
         <p class="caption">Caption for map2</p>
       </div>
@@ -192,5 +189,3 @@
 
   </footer>
 </body>
-
-</html>
