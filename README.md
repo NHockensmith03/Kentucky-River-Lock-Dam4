@@ -124,6 +124,10 @@
         flex-basis: 100%;
       }
     }
+    .content {
+      text-align: center;    /* centers inline & inline-block children */
+      padding: 2rem;
+    }
   </style>
 </head>
 
@@ -183,8 +187,10 @@
       </div>
     </div>
   </section>
+<div class="content">
   <footer>
     <hr />
-    <img src="logo-color-400px.png" alt="UKy Arts and Sciences  " width="300px">
+    <img src="logo-color-400px.png" alt="" width="300px">
   </footer>
+  </div>
 </body>
