@@ -194,7 +194,7 @@
         <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing north east by Nick Hockensmith, 
         <h3>South East Facing Picture </h3>
         <img src="Lock4.1.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing south east by Nick Hockensmith.
+        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing south east by Nick Hockensmith </p>
       </div>
     </div>
   </section>
