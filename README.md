@@ -154,11 +154,13 @@
       <div class="left-column">
         <h3>History</h3>
         <p>
-          The kentucky river has been used for travel and trade of goods even before kentucky became the fifthent state. There is documentation of a trip from Frankfort, KY to New Orleans, LA in 1787. This trip being apart of the kentucky-Mississippi River Trade Route. This Trade route allowed trade between New Orleans, Louisvile, Cincinnati, and Central Kentucky. The trade route was hard to travel when the water was low so Dams 1 through 5 on the Kentucky river were constructed from 1836 to 1842. Including the original lock and Dam #4 which was then rebult in 1882 by the Corp of Engineers. The Lock & Dam have since been repaired several time and are still currently operational to leasure boat traffic, though the locks were used until 2002 as a form of transportation of goods by barge at this point locks 1 through 4 were leased from the United States Army Corps to the Kentucky River Authority that was established in 1986 to manage locks 5 through 14 on the kentucky river until they were decommissioned in 1990.
+          The Kentucky River has been used for travel and trade of goods even before Kentucky became the fifteenth state. There is documentation of a trip from Frankfort, KY, to New Orleans, LA in 1787. This trip being a part of the Kentucky-Mississippi River Trade Route. This Trade route allowed trade between New Orleans, Louisville, Cincinnati, and Central Kentucky. The trade route was hard to travel when the water was low, so Dams 1 through 5 on the Kentucky River were constructed from 1836 to 1842. Including the original lock and Dam #4, which was then rebuilt in 1882 by the Corps of Engineers. The Lock & Dam have since been repaired several times and are still currently operational to leisure boat traffic. However, the locks were used until 2002 as a form of transportation of goods by barge at this point locks 1 through 4 were leased from the United States Army Corps to the Kentucky River Authority, that was established in 1986 to manage locks 5 through 14 on the Kentucky River until they were decommissioned in 1990.
         </p>
+        <h3>Purpose</h3>
         <p>
-          The goal of this project is to take a look at a piece of infustructure that played a role in the growth of kentucky. The lock system throughout the kentucky river played a viable role in transportation of good in and out of the state. 
+         The goal of this project is to take a look at a piece of infrastructure that played an important role in the growth of Kentucky, using aerial imagery and Lidar data to create 3D Point cloud models.
         </p>
+        <h3>Credits</h3>
         <p>
           Visualizations created from lidar data provided by
           <a href="https://kyfromabove.ky.gov/">KyFromAbove</a> in ArcGIS Pro, Blender, and Cesium Ion. Additional sources of information from
