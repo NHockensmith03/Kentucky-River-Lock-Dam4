@@ -148,7 +148,7 @@
     <!-- 💡💡💡 Cesium map: paste embed code below -->
     <iframe title="KyRivLoc4" width="1024" height="576" src="https://ion.cesium.com/stories/viewer/?id=81198725-83d1-423c-84cb-33141159165e" frameborder="0" allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <!-- 💡💡💡 Cesium map: paste embed code above -->
-    <p class="caption">Above is an interctive 3D animation of the Kentucky River Lock & Dam #4 </p>
+    <p class="caption">Above is an 3D tour of the Kentucky River Lock & Dam #4 </p>
     <div class="title">
       <h1>Kentukcy River Lock & Dam #4</h1>
       <h2>Frankfort, Kentucky</h2>
@@ -159,11 +159,8 @@
         <p>
           The original lock and Dam #4 on the Kentucky River was built between the years 1836 to 1842 and was then rebult in 1882 by the Corp of Engineers. The Lock & Dam have since been repaired several time and are still currently operational to leasure boat traffic, though the locks were used until 2002 as a form of transportation of goods by barge.
         </p>
-
         <p>
-          Two sentences about the goals of the project (e.g., The goal of this
-          project is to measure and visualize the historic entrance to Mammoth
-          Cave).
+          The goal of this project is to take a look at a piece of infustructure that played a role in the growth of kentucky. The lock system throughout the kentucky river played a viable role in transportation of goods through and out of the state for over 150 years. 
         </p>
 
         <p>
