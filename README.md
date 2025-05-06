@@ -1,5 +1,4 @@
 
-
 <head>
   <meta charset="utf-8" />
   <title>Presentation</title>
@@ -107,15 +106,13 @@
     /* Define styles for the left column */
     .left-column {
       flex-basis: 40%;
-      background-color: rgba(255, 255, 255, 0.35);
-      border-radius: 10px;
       padding: 20px;
       margin-bottom: 20px;
     }
 
     /* Define styles for the right column */
     .right-column {
-      flex-basis: 40%;
+      flex-basis: 55%;
       background-color: rgba(255, 255, 255, 0.35);
       border-radius: 10px;
       padding: 20px;
@@ -150,9 +147,9 @@
     <!-- 💡💡💡 Cesium map: paste embed code below -->
     <iframe title="KyRivLoc4" width="1024" height="576" src="https://ion.cesium.com/stories/viewer/?id=81198725-83d1-423c-84cb-33141159165e" frameborder="0" allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <!-- 💡💡💡 Cesium map: paste embed code above -->
-    <p class="caption">Above is an 3D tour of the Kentucky River Lock & Dam #4 </p>
+    <p class="caption">Above is an 3D tour of the Kentucky River Lock & Dam #4</p>
     <div class="title">
-      <h1>Kentukcy River Lock & Dam #4</h1>
+      <h1>Kentucky River Lock & Dam #4</h1>
       <h2>Frankfort, Kentucky</h2>
     </div>
     <div class="container">
@@ -162,7 +159,7 @@
           The original lock and Dam #4 on the Kentucky River was built between the years 1836 to 1842 and was then rebult in 1882 by the Corp of Engineers. The Lock & Dam have since been repaired several time and are still currently operational to leasure boat traffic, though the locks were used until 2002 as a form of transportation of goods by barge.
         </p>
         <p>
-          The goal of this project is to take a look at a piece of infustructure that played a role in the growth of kentucky. The lock system throughout the kentucky river played a viable role in transportation of good in and out of the state. 
+         The goal of this project is to take a look at a piece of infustructure that played a role in the growth of kentucky. The lock system throughout the kentucky river played a viable role in transportation of good in and out of the state. 
         </p>
         <p>
           Visualizations created from lidar data provided by
@@ -174,32 +171,21 @@
           Page and visualizations created by NHockensmith for GEO 409, Department of
           Geography, University of Kentucky. Spring 2025.
         </p>
-        <h3>Signage Near Lock #4 </h3>
-        <img src="LocSign.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Picture of sign near Kentucky River Lock & Dam #4 by Nick Hockensmith.
-        <h3>North West Facing Picture </h3>
-        <img src="Lock4.2.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the east side of the dam facing north west by Nick Hockensmith.
-        </p>
-      </div>
-      <div class="right-column">
+       <div class="right-column">
         <h3>Shaded Relief </h3>
         <img src="KyRivShadeRelief.jpg" alt="Something about this map" width="100%" />
         <p class="caption">This map displays a shaded releif of the area around Lock #4 <a href="KyRivShadeRelief.pdf">(High-Resolution Version)</a></p>
         <h3>Point Cloud from Lidar </h3>
       <img src="KyRivLoc4_Map.jpg" alt="Something about this map" width="100%" />
         <p class="caption">This map the size of the lock determined from lidar data being displayed as a colorized point cloud. <a href="KyRivLoc4_Map.pdf">(High-Resolution Version)</a></p>
-        <h3>North East Facing Picture </h3>
-        <img src="Lock4.3.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing north east by Nick Hockensmith, 
-        <h3>South East Facing Picture </h3>
-        <img src="Lock4.1.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing south east by Nick Hockensmith </p>
       </div>
     </div>
   </section>
   <footer>
     <hr />
     <img src="logo-color-400px.png" alt="UKy Arts and Sciences  " width="300px">
+
   </footer>
 </body>
+
+</html>
