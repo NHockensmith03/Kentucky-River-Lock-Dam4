@@ -130,7 +130,7 @@
     }
   </style>
 </head>
-
+<div class="content">
 <body>
   <section>
     <!-- 💡💡💡 Cesium map: paste embed code below -->
@@ -194,3 +194,4 @@
   </footer>
   </div>
 </body>
+</div>
