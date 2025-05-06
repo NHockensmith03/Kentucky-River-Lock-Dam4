@@ -19,7 +19,7 @@
       font-family: "Open Sans", sans-serif;
       font-weight: 400;
       color: rgb(32, 32, 32);
-      background-color: rgb(236, 232, 228);
+      background-color: rgb(249, 211, 129);
     }
     /* Define styles for the headings */
     h1 {
@@ -49,10 +49,10 @@
     }
     a:link,
     a:visited {
-      color: rgb(12, 73, 34);
+      color: rgb(255, 0, 0);
     }
     a:hover {
-      color: rgb(86, 86, 86);
+      color: rgb(252, 7, 235);
       text-decoration: none;
     }
     section {
@@ -60,9 +60,9 @@
       margin: 0 auto;
     }
     footer {
-      width: 80%;
+      width: 100%;
       margin: 0 auto;
-      color: rgb(100, 100, 100);
+      color: rgb(124, 123, 123);
     }
     iframe {
       border: 1px solid rgb(200, 200, 200);
