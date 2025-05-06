@@ -89,7 +89,7 @@
     }
     /* Define styles for the left column */
     .left-column {
-      flex-basis: 40%;
+      flex-basis: 48%;
       background-color: rgba(255, 255, 255, 0.35);
       border-radius: 10px;
       padding: 20px;
@@ -97,7 +97,7 @@
     }
     /* Define styles for the right column */
     .right-column {
-      flex-basis: 55%;
+      flex-basis: 48%;
       background-color: rgba(255, 255, 255, 0.35);
       border-radius: 10px;
       padding: 20px;
@@ -170,10 +170,12 @@
         <p class="caption">This map the size of the lock determined from lidar data being displayed as a colorized point cloud. <a href="KyRivLoc4_Map.pdf">(High-Resolution Version)</a></p>
         <h3>North East Facing Picture </h3>
         <img src="Lock4.3.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing north east by Nick Hockensmith, 
+        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing north east by Nick Hockensmith.
+         </p> 
         <h3>South East Facing Picture </h3>
         <img src="Lock4.1.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing south east by Nick Hockensmith </p>
+        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing south east by Nick Hockensmith 
+        </p>
       </div>
     </div>
   </section>
