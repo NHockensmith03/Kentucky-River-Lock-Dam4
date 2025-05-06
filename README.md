@@ -154,7 +154,7 @@
       <div class="left-column">
         <h3>History</h3>
         <p>
-          The original lock and Dam #4 on the Kentucky River was built between the years 1836 to 1842 and was then rebult in 1882 by the Corp of Engineers. The Lock & Dam have since been repaired several time and are still currently operational to leasure boat traffic, though the locks were used until 2002 as a form of transportation of goods by barge.
+          The kentucky river has been used for travel and trade of goods even before kentucky became the fifthent state. There is documentation of a trip from Frankfort, KY to New Orleans, LA in 1787. This trip being apart of the kentucky-Mississippi River Trade Route. This Trade route allowed trade between New Orleans, Louisvile, Cincinnati, and Central Kentucky. The trade route was hard to travel when the water was low so Dams 1 through 5 on the Kentucky river were constructed from 1836 to 1842. Including the original lock and Dam #4 which was then rebult in 1882 by the Corp of Engineers. The Lock & Dam have since been repaired several time and are still currently operational to leasure boat traffic, though the locks were used until 2002 as a form of transportation of goods by barge at this point locks 1 through 4 were leased from the United States Army Corps to the Kentucky River Authority that was established in 1986 to manage locks 5 through 14 on the kentucky river until they were decommissioned in 1990.
         </p>
         <p>
           The goal of this project is to take a look at a piece of infustructure that played a role in the growth of kentucky. The lock system throughout the kentucky river played a viable role in transportation of good in and out of the state. 
