@@ -190,7 +190,7 @@
 <div class="content">
   <footer>
     <hr />
-    <img src="logo-color-400px.png" alt="" width="300px">
+    <img src="logo-color-400px.png" alt="UKY College of Arts and Sciences" width="300px">
   </footer>
   </div>
 </body>
