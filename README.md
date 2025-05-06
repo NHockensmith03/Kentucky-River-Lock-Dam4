@@ -106,7 +106,7 @@
 
     /* Define styles for the left column */
     .left-column {
-      flex-basis: 47%;
+      flex-basis: 40%;
       background-color: rgba(255, 255, 255, 0.35);
       border-radius: 10px;
       padding: 20px;
@@ -115,7 +115,7 @@
 
     /* Define styles for the right column */
     .right-column {
-      flex-basis: 47%;
+      flex-basis: 40%;
       background-color: rgba(255, 255, 255, 0.35);
       border-radius: 10px;
       padding: 20px;
