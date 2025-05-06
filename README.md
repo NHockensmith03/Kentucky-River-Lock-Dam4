@@ -108,6 +108,7 @@
     .left-column {
       flex-basis: 40%;
       background-color: rgba(255, 255, 255, 0.35);
+      border-radius: 10px;
       padding: 20px;
       margin-bottom: 20px;
     }
@@ -185,16 +186,7 @@
     </div>
   </section>
   <footer>
-  <div class="container">
-      <div class="left-column">
     <hr />
     <img src="logo-color-400px.png" alt="UKy Arts and Sciences  " width="300px">
-    </div>
-    <div class="right-column">
-    <p>
-          Page and visualizations created by NHockensmith for GEO 409, Department of
-          Geography, University of Kentucky. Spring 2025.
-        </p>
-    </div>
   </footer>
 </body>
