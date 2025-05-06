@@ -173,10 +173,6 @@
         <img src="LocSign.jpg" alt="Something about this map" width="100%" />
         <p class="caption">Picture of sign near Kentucky River Lock & Dam #4 by Nick Hockensmith. 
         </p>
-        <h3>North West Facing Picture </h3>
-        <img src="Lock4.2.jpg" alt="Something about this map" width="100%" />
-        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the east side of the dam facing north west by Nick Hockensmith.
-        </p>
       </div>
       <div class="right-column">
         <h3>Shaded Relief </h3>
@@ -192,6 +188,10 @@
         <h3>South East Facing Picture </h3>
         <img src="Lock4.1.jpg" alt="Something about this map" width="100%" />
         <p class="caption">Picture of Kentucky River Lock & Dam #4 from the west side of the river facing south east by Nick Hockensmith 
+        </p>
+        <h3>North West Facing Picture </h3>
+        <img src="Lock4.2.jpg" alt="Something about this map" width="100%" />
+        <p class="caption">Picture of Kentucky River Lock & Dam #4 from the east side of the dam facing north west by Nick Hockensmith.
         </p>
       </div>
     </div>
