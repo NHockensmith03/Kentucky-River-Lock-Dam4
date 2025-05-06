@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 
 <head>
   <meta charset="utf-8" />
@@ -149,17 +148,16 @@
     <!-- 💡💡💡 Cesium map: paste embed code below -->
     <iframe title="KyRivLoc4" width="1024" height="576" src="https://ion.cesium.com/stories/viewer/?id=81198725-83d1-423c-84cb-33141159165e" frameborder="0" allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <!-- 💡💡💡 Cesium map: paste embed code above -->
-    <p class="caption">Caption for Cesium slideshow</p>
+    <p class="caption">Above is an interctive 3D animation of the Kentucky River Lock & Dam #4 </p>
     <div class="title">
-      <h1>Brief, yet bold title for project</h1>
-      <h2>Subtitle with when and where</h2>
+      <h1>Kentukcy River Lock & Dam #4</h1>
+      <h2>Frankfort, Kentucky</h2>
     </div>
     <div class="container">
       <div class="left-column">
         <h3>Left Column - Description</h3>
         <p>
-          Two sentences about your area/theme of interest (e.g., when was it
-          established, created, where is it, what is unique about, etc.)
+          The original lock and Dam #4 on the Kentucky River was built between the years 1836 to 1842 and was then rebult in 1882 by the Corp of Engineers. The Lock & Dam have since been repaired several time and are still currently operational to leasure boat traffic, though the locks were used until 2002 as a form of transportation of goods by barge.
         </p>
 
         <p>
