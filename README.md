@@ -56,7 +56,7 @@
       text-decoration: none;
     }
     section {
-      width: 80%;
+      width: 100%;
       margin: 0 auto;
     }
     footer {
@@ -65,9 +65,12 @@
       color: rgb(124, 123, 123);
     }
     iframe {
-      border: 1px solid rgb(200, 200, 200);
-      border-radius: 10px;
-      margin-top: 20px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 10px;
+    margin-top: 20px;
     }
     .caption {
       font-size: 0.8rem;
@@ -130,7 +133,6 @@
     }
   </style>
 </head>
-<div class="content">
 <body>
   <section>
     <!-- 💡💡💡 Cesium map: paste embed code below -->
@@ -194,4 +196,3 @@
   </footer>
   </div>
 </body>
-</div>
