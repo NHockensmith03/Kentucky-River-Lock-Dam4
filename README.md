@@ -56,9 +56,8 @@
       text-decoration: none;
     }
     section {
-      width: clamp(320px, 80%, 1200px);
+      width: clamp(320px, 100%, 1200px);
       margin: 0 auto;
-      padding: 0 1rem;
     }
     footer {
       width: 100%;
