@@ -132,7 +132,7 @@
     <!-- 💡💡💡 Cesium map: paste embed code below -->
     <iframe title="KyRivLoc4" width="1024" height="576" src="https://ion.cesium.com/stories/viewer/?id=81198725-83d1-423c-84cb-33141159165e" frameborder="0" allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     <!-- 💡💡💡 Cesium map: paste embed code above -->
-    <p class="caption">Above is an 3D tour of the Kentucky River Lock & Dam #4 </p>
+    <p class="caption">Above is an 3D tour of the Kentucky River Lock & Dam #4, Explore the Cesium Ion slideshow via the above controls (CTRL or ⌘ + click to rotate).</p>
     <div class="title">
       <h1>Kentukcy River Lock & Dam #4</h1>
       <h2>Frankfort, Kentucky</h2>
