@@ -107,6 +107,10 @@
     .right-column img {
       border-radius: 10px;
     }
+     /* Round image corners for images inside the left-column */
+    .left-column img {
+      border-radius: 10px;
+    }
     /* Media query for small screens */
     /* For screens up to 768px, apply these rules. */
     @media (max-width: 768px) {
