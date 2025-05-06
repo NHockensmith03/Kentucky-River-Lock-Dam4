@@ -180,6 +180,7 @@
         <h3>North West Facing Picture </h3>
         <img src="Lock4.2.jpg" alt="Something about this map" width="100%" />
         <p class="caption">Picture of Kentucky River Lock & Dam #4 from the east side of the dam facing north west by Nick Hockensmith.
+        </p>
       </div>
       <div class="right-column">
         <h3>Shaded Relief </h3>
